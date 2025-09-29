@@ -34,10 +34,15 @@ The analysis is based on the included file, Viewership Analysis .csv, which cont
 Column Name	Description:
 
 DateID → The date of the viewing event.
+
 CustomerID →	A unique, anonymous identifier for the viewer.
+
 TotalTimeWatched	→ The duration (in seconds) the customer watched the video.
+
 Platform →	The device or platform used for viewing (e.g., Leanback, Android, iOS).
+
 PlayEventType →	The nature of the viewing event (e.g., LiveTV, Other).
+
 VideoTitle →	The title of the content watched.
 
 
